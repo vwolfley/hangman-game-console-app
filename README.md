@@ -1,6 +1,6 @@
 # Hangman Game Console App in C#
 
-A simple command line hangman game, written in C#
+A simple command line application or console app hangman game, written in C#
 
 ## What is Hangman
 
