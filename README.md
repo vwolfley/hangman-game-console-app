@@ -10,14 +10,14 @@ Hangman is a classic word game in which you must guess the secret word one lette
 * Each incorrect guess adds another part to the hangman gallows. 
 * You only get 7 incorrect guesses.
 
--[Hangman](https://en.wikipedia.org/wiki/Hangman_(game))
+- [Hangman Game](https://en.wikipedia.org/wiki/Hangman_(game))
 
 ## Helpful Utilities
 
 To work with this you may need the following:
 
 - [Visual Studio Code](https://code.visualstudio.com/) installed on your development machine. If you do not have Visual Studio Code, visit the previous link for download options. (**Note:** This tutorial was written with Visual Studio Code version 1.52.1. The steps in this guide may work with other versions, but that has not been tested.)
-- [.Net Core SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0).
+- [.Net Core SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 - [C# extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 
 
