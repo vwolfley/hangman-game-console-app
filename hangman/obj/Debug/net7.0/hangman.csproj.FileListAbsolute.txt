@@ -1,0 +1,15 @@
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/obj/Debug/net7.0/hangman.csproj.AssemblyReference.cache
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/obj/Debug/net7.0/hangman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/obj/Debug/net7.0/hangman.AssemblyInfoInputs.cache
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/obj/Debug/net7.0/hangman.AssemblyInfo.cs
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/obj/Debug/net7.0/hangman.csproj.CoreCompileInputs.cache
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/bin/Debug/net7.0/hangman
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/bin/Debug/net7.0/hangman.deps.json
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/bin/Debug/net7.0/hangman.runtimeconfig.json
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/bin/Debug/net7.0/hangman.dll
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/bin/Debug/net7.0/hangman.pdb
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/obj/Debug/net7.0/hangman.dll
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/obj/Debug/net7.0/refint/hangman.dll
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/obj/Debug/net7.0/hangman.pdb
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/obj/Debug/net7.0/hangman.genruntimeconfig.cache
+/Users/vernwolfley/Documents/dev-projects/hangman/hangman/obj/Debug/net7.0/ref/hangman.dll
